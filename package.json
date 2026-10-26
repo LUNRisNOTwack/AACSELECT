@@ -1,0 +1,9 @@
+{
+  "name": "aacselect",
+  "version": "2.0.0",
+  "private": true,
+  "description": "AACSelect (https://aacselect.onrender.com) - community votes who deserves AAC (unofficial fan project)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": "22.x" }
+}
